@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DJrMartin
+- 👋 Hi, I’m @D.Martin
 - 👀 I’m interested in Biology
-- 💞️ I’m looking to collaborate on intestinal microbiota
-- 📫 How to reach me david.martin@univ-rennes2.fr
+- 💞️ I’m looking to collaborate on gut microbiota
+- 📫 How to reach me david.martin.2@univ-rennes.fr
 
 <!---
 DJrMartin/DJrMartin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
